@@ -1,4 +1,4 @@
 - Hi, I’m @nswaar
 - I’m interested in programming in PHP as well as learning new languages!
 - I’m currently learning git :P
-- How to reach me nicholas.swaar@gmail.com
+- Email me at: nicholas.swaar@gmail.com
